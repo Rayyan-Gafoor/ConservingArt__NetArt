@@ -66,7 +66,7 @@ public class Conserve : MonoBehaviour
     }
     public void work__increase()
     {
-        work__image.fillAmount += (work__value/2f);
+        work__image.fillAmount += (work__value/1.5f);
         Debug.Log("worked");
     }
     public void conserve__increase()
