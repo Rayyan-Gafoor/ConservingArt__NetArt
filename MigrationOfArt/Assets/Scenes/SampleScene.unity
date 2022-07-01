@@ -6380,8 +6380,8 @@ MonoBehaviour:
   conserve__image: {fileID: 828572566}
   work__text: {fileID: 204724703}
   work__value: 0.02
-  conserve__value: 0.005
-  speed__decrease: 1
+  conserve__value: 0.015
+  speed__decrease: 2
   size__decrease: 0.005
   max__size: 2
   max__speed: 200
